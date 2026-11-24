@@ -4,7 +4,7 @@ from datetime import date
 DB_CONFIG = {
     'host': "localhost",
     'user': "root",                                                                                                                                       
-    'passwd': "Kaizen",
+    'passwd': "Your_Pass",
     'database': "intellitrack"}
 
 def connect_db():
